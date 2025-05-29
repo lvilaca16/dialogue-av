@@ -1,0 +1,3 @@
+[submodule "captioners"]
+	path = captioners
+	url = git@github.com:lvilaca16/dialogue-av-captioners.git
