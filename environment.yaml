@@ -1,0 +1,10 @@
+name: dialogue-av
+channels:
+    - default
+dependencies:
+    - python>=3.9
+    - anaconda
+    - pip
+    - pip:
+          - -r requirements.txt
+          - -e .

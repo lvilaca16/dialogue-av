@@ -1,0 +1,12 @@
+decord
+ffmpeg-python
+librosa
+numpy
+pandas
+SentencePiece
+spacy
+torch
+torchaudio
+torchvision
+tqdm
+transformers
